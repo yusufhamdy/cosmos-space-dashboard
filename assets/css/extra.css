@@ -1,0 +1,17 @@
+/* Utility classes used by the JS-rendered markup that are missing from style.css */
+.bg-green-500\/20 { background-color: rgb(34 197 94 / 0.2); }
+.bg-green-500\/90 { background-color: rgb(34 197 94 / 0.9); }
+.bg-yellow-500\/20 { background-color: rgb(234 179 8 / 0.2); }
+.bg-yellow-500\/50 { background-color: rgb(234 179 8 / 0.5); }
+.bg-yellow-500\/90 { background-color: rgb(234 179 8 / 0.9); }
+.bg-orange-500\/50 { background-color: rgb(249 115 22 / 0.5); }
+.bg-blue-500\/50 { background-color: rgb(59 130 246 / 0.5); }
+.bg-red-500\/50 { background-color: rgb(239 68 68 / 0.5); }
+.bg-purple-500\/50 { background-color: rgb(168 85 247 / 0.5); }
+.bg-cyan-500\/50 { background-color: rgb(6 182 212 / 0.5); }
+.text-yellow-200 { color: #fef08a; }
+.text-orange-200 { color: #fed7aa; }
+.text-blue-200 { color: #bfdbfe; }
+.text-red-200 { color: #fecaca; }
+.text-purple-200 { color: #e9d5ff; }
+.text-cyan-200 { color: #a5f3fc; }
